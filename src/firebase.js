@@ -3,7 +3,6 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from "firebase/
 
 const firebaseConfig = {
   // PASTE YOUR FIREBASE CONFIG HERE FROM FIREBASE CONSOLE
-  apiKey: "AIzaSyBe8VxaDUG6ExIgfTJPK3lYPjFX-jaASfw",
   authDomain: "planora-9084f.firebaseapp.com",
   projectId: "planora-9084f",
   storageBucket: "planora-9084f.firebasestorage.app",
